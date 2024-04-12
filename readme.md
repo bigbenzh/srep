@@ -21,3 +21,4 @@ This version of SREP  does not need [FreeArc](https://web.archive.org/web/201503
 ## Related Links
 [FreeArc Research Page](https://web.archive.org/web/20170205090944/http://freearc.org/Research.aspx)
 [FreeArc Announcement Channel](https://groups.google.com/g/freearc-announces)
+[A repackage of SREP](https://github.com/Intensity/srep) that has some updates and handles compilation by Makefile.

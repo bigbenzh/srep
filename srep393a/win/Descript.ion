@@ -1,0 +1,5 @@
+srep32i.exe 32-bit executable compiled with Intel C++ 2011
+srep32m.exe 32-bit executable compiled with Microsoft C++ 2013
+srep32s.exe 32-bit executable compiled with GCC 3.4.5 with no SSE code
+srep64i.exe 64-bit executable compiled with Intel C++ 2011
+srep64m.exe 64-bit executable compiled with Microsoft C++ 2013
